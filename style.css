@@ -38,3 +38,37 @@
 
 
 /* carousel End */
+
+/* categories start */
+
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background: orange;
+}
+.cat2{
+background-color: orchid;
+}
+.cat3{
+    background: blue;
+}
+
+.categories{
+    margin-top: 100px;
+    
+}
+
+.categories{
+    color: white;
+}
+
+.categories img{
+        width: 100px;
+}
+
+
+/* categories End */
