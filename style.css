@@ -59,16 +59,54 @@ background-color: orchid;
 
 .categories{
     margin-top: 100px;
+    margin-bottom: 100px;
     
 }
 
-.categories{
+.categories h1{
     color: white;
+
 }
 
 .categories img{
         width: 100px;
+
 }
 
 
+.card-body h5{
+    font-weight: 700;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-bottom: 100px;
+    
+}
+
+.card-footer{
+    background: white;
+    border-top: none;
+}
+
 /* categories End */
+
+/* Contact-us start */
+
+.contact{
+    margin-top: 100px;
+    background: #fceae8 ;
+    height: 300px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    
+}
+
+.contact h6{
+
+    color: gray;
+}
+/* Contact-us end */
+
